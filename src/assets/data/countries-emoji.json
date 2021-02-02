@@ -29,7 +29,9 @@
       "pol": "Afganistan",
       "urd": "افغانستان",
       "kor": "아프가니스탄",
-      "ar": "افغانستان"
+      "ar": "افغانستان",
+      "tur": "Afganistan",
+      "ind": "Afganistan"
     }
   },
   "AL": {
@@ -62,7 +64,9 @@
       "pol": "Albania",
       "urd": "البانیا",
       "kor": "알바니아",
-      "ar": "البانیا"
+      "ar": "البانیا",
+      "tur": "Arnavutluk",
+      "ind": "Albania"
     }
   },
   "DZ": {
@@ -95,7 +99,9 @@
       "pol": "Algieria",
       "urd": "الجزائر",
       "kor": "알제리",
-      "ar": "الجزائر"
+      "ar": "الجزائر",
+      "tur": "Cezayir",
+      "ind": "Aljazair"
     }
   },
   "AS": {
@@ -127,7 +133,9 @@
       "pol": "Samoa Amerykańskie",
       "urd": "امریکی سمووا",
       "kor": "아메리칸사모아",
-      "ar": "امریکا سمووا"
+      "ar": "امریکا سمووا",
+      "tur": "Amerikan Samoası",
+      "ind": "Samoa Amerika"
     }
   },
   "AD": {
@@ -160,7 +168,9 @@
       "pol": "Andora",
       "urd": "انڈورا",
       "kor": "안도라",
-      "ar": "أندورا"
+      "ar": "أندورا",
+      "tur": "Andorra",
+      "ind": "Andorra"
     }
   },
   "AO": {
@@ -193,7 +203,9 @@
       "pol": "Angola",
       "urd": "انگولہ",
       "kor": "앙골라",
-      "ar": "انجولا"
+      "ar": "انجولا",
+      "tur": "Angola",
+      "ind": "Angola"
     }
   },
   "AI": {
@@ -225,7 +237,9 @@
       "pol": "Anguilla",
       "urd": "اینگویلا",
       "kor": "앵귈라",
-      "ar": "اينجويلا"
+      "ar": "اينجويلا",
+      "tur": "Anguilla",
+      "ind": "Anguilla"
     }
   },
   "AQ": {
@@ -254,7 +268,9 @@
       "pol": "Antarktyka",
       "urd": "انٹارکٹکا",
       "kor": "남극",
-      "ar": "انتاركتيكا"
+      "ar": "انتاركتيكا",
+      "tur": "Antarktika",
+      "ind": "Antartika"
     }
   },
   "AG": {
@@ -287,7 +303,9 @@
       "pol": "Antigua i Barbuda",
       "urd": "اینٹیگوا و باربوڈا",
       "kor": "앤티가 바부다",
-      "ar": "أنتيجوا وبربودا"
+      "ar": "أنتيجوا وبربودا",
+      "tur": "Antigua ve Barbuda  ",
+      "ind": "Antigua dan Barbuda "
     }
   },
   "AR": {
@@ -320,7 +338,9 @@
       "pol": "Argentyna",
       "urd": "ارجنٹائن",
       "kor": "아르헨티나",
-      "ar": "أرجنتين"
+      "ar": "أرجنتين",
+      "tur": "Arjantin",
+      "ind": "Argentina"
     }
   },
   "AM": {
@@ -353,7 +373,9 @@
       "pol": "Armenia",
       "urd": "آرمینیا",
       "kor": "아르메니아",
-      "ar": "أرمينيا"
+      "ar": "أرمينيا",
+      "tur": "Ermenistan",
+      "ind": "Armenia"
     }
   },
   "AW": {
@@ -385,7 +407,9 @@
       "pol": "Aruba",
       "urd": "اروبا",
       "kor": "아루바",
-      "ar": "اروبا"
+      "ar": "اروبا",
+      "tur": "Aruba",
+      "ind": "Aruba"
     }
   },
   "AU": {
@@ -418,7 +442,9 @@
       "pol": "Australia",
       "urd": "آسٹریلیا",
       "kor": "호주",
-      "ar": "أستراليا"
+      "ar": "أستراليا",
+      "tur": "Avustralya",
+      "ind": "Australia"
     }
   },
   "AT": {
@@ -451,7 +477,9 @@
       "pol": "Austria",
       "urd": "آسٹریا",
       "kor": "오스트리아",
-      "ar":"النمسا"
+      "ar":"النمسا",
+      "tur": "Avusturya",
+      "ind": "Austria"
     }
   },
   "AZ": {
@@ -484,7 +512,9 @@
       "pol": "Azerbejdżan",
       "urd": "آذربائیجان",
       "kor": "아제르바이잔",
-      "ar": "أذربيجان"
+      "ar": "أذربيجان",
+      "tur": "Azerbaycan",
+      "ind": "Azerbaijan"
     }
   },
   "BS": {
@@ -517,7 +547,9 @@
       "pol": "Bahamy",
       "urd": "بہاماس",
       "kor": "바하마",
-      "ar": "البهاما"
+      "ar": "البهاما",
+      "tur": "Bahamalar",
+      "ind": "Bahama"
     }
   },
   "BH": {
@@ -550,7 +582,9 @@
       "pol": "Bahrajn",
       "urd": "بحرین",
       "kor": "바레인",
-      "ar": "البحرين"
+      "ar": "البحرين",
+      "tur": "Bahreyn",
+      "ind": "Bahrain",
     }
   },
   "BD": {
@@ -583,7 +617,9 @@
       "pol": "Bangladesz",
       "urd": "بنگلہ دیش",
       "kor": "방글라데시",
-      "ar":"بنغلاديش"
+      "ar":"بنغلاديش",
+      "tur": "Bangladeş",
+      "ind": "Bangladesh",
     }
   },
   "BB": {
@@ -616,7 +652,9 @@
       "pol": "Barbados",
       "urd": "بارباڈوس",
       "kor": "바베이도스",
-      "ar": "باربادوس"
+      "ar": "باربادوس",
+      "tur": "Barbados",
+      "ind": "Barbados",
     }
   },
   "BY": {
@@ -649,7 +687,9 @@
       "pol": "Białoruś",
       "urd": "بیلاروس",
       "kor": "벨라루스",
-      "ar": "بيلاروسيا"
+      "ar": "بيلاروسيا",
+      "tur": "Beyaz Rusya  ",
+      "ind": "Belarus",
     }
   },
   "BE": {
@@ -682,7 +722,9 @@
       "pol": "Belgia",
       "urd": "بلجئیم",
       "kor": "벨기에",
-      "ar": "بلجيكا"
+      "ar": "بلجيكا",
+      "tur": "Belçika",
+      "ind": "Belgia"
     }
   },
   "BZ": {
@@ -715,7 +757,9 @@
       "pol": "Belize",
       "urd": "بیلیز",
       "kor": "벨리즈",
-      "ar": "بليز"
+      "ar": "بليز",
+      "tur": "Belize",
+      "ind": "Belize"
     }
   },
   "BJ": {
@@ -748,7 +792,9 @@
       "pol": "Benin",
       "urd": "بینن",
       "kor": "베냉",
-      "ar": "بنين"
+      "ar": "بنين",
+      "tur": "Benin",
+      "ind": "Benin"
     }
   },
   "BM": {
@@ -781,7 +827,9 @@
       "pol": "Bermudy",
       "urd": "برمودا",
       "kor": "버뮤다",
-      "ar":"برمودا"
+      "ar":"برمودا",
+      "tur": "Bermuda",
+      "ind": "Bermuda"
     }
   },
   "BT": {
@@ -815,7 +863,9 @@
       "pol": "Bhutan",
       "urd": "بھوٹان",
       "kor": "부탄",
-      "ar": "بوتان"
+      "ar": "بوتان",
+      "tur": "Bhutan",
+      "ind": "Bhutan"
     }
   },
   "BO": {
@@ -848,7 +898,9 @@
       "pol": "Boliwia",
       "urd": "بولیویا",
       "kor": "볼리비아",
-      "ar": "بوليفيا"
+      "ar": "بوليفيا",
+      "tur": "Bolivya",
+      "ind": "Bolivia"
     }
   },
   "BA": {
@@ -881,7 +933,9 @@
       "pol": "Bośnia i Hercegowina",
       "urd": "بوسنیا و ہرزیگووینا",
       "kor": "보스니아 헤르체고비나",
-      "ar": "البوسنة و الهرسك"
+      "ar": "البوسنة و الهرسك",
+      "tur": "Bosna-Hersek",
+      "ind": "Bosnia dan Herzegovina"
     }
   },
   "BW": {
@@ -913,7 +967,9 @@
       "pol": "Botswana",
       "urd": "بوٹسوانا",
       "kor": "보츠와나",
-      "ar": "بوتسوانا"
+      "ar": "بوتسوانا",
+      "tur": "Botsvana",
+      "ind": "Botswana"
     }
   },
   "BV": {
@@ -943,7 +999,9 @@
       "pol": "Wyspa Bouveta",
       "urd": "جزیرہ بووہ",
       "kor": "부베 섬",
-      "ar": "جزيرة بوفيه"
+      "ar": "جزيرة بوفيه",
+      "tur": "Bouvet Adası",
+      "ind": "Pulau Bouvet"
     }
   },
   "BR": {
@@ -976,7 +1034,9 @@
       "pol": "Brazylia",
       "urd": "برازیل",
       "kor": "브라질",
-      "ar": "البرازيل"
+      "ar": "البرازيل",
+      "tur": "Brezilya",
+      "ind": "Brasil"
     }
   },
   "IO": {
@@ -1009,7 +1069,9 @@
       "pol": "Brytyjskie Terytorium Oceanu Indyjskiego",
       "urd": "برطانوی بحرہند خطہ",
       "kor": "인도",
-      "ar": "إقليم المحيط الهندي البريطاني"
+      "ar": "إقليم المحيط الهندي البريطاني",
+      "tur": "İngiliz Hint Okyanusu Bölgesi",
+      "ind": "Wilayah Samudra Hindia Britania"
     }
   },
   "VG": {
@@ -1041,7 +1103,9 @@
       "pol": "Brytyjskie Wyspy Dziewicze",
       "urd": "برطانوی جزائر ورجن",
       "kor": "영국령 버진아일랜드",
-      "ar": "الجزر العذراء البريطانية "
+      "ar": "الجزر العذراء البريطانية ",
+      "tur": "Britanya Virjin Adaları",
+      "ind": "Kepulauan Virgin Inggris"
     }
   },
   "BN": {
@@ -1074,7 +1138,9 @@
       "pol": "Brunei",
       "urd": "برونائی",
       "kor": "브루나이",
-      "ar": "بروناي"
+      "ar": "بروناي",
+      "tur": "Brunei",
+      "ind": "Brunei"
     }
   },
   "BG": {
@@ -1107,7 +1173,9 @@
       "pol": "Bułgaria",
       "urd": "بلغاریہ",
       "kor": "불가리아",
-      "ar": "بلغاريا"
+      "ar": "بلغاريا",
+      "tur": "Bulgaristan",
+      "ind": "Bulgaria"
     }
   },
   "BF": {
@@ -1140,7 +1208,9 @@
       "pol": "Burkina Faso",
       "urd": "برکینا فاسو",
       "kor": "부르키나파소",
-      "ar": "بوركينا فاسو"
+      "ar": "بوركينا فاسو",
+      "tur": "Burkina Faso",
+      "ind": "Burkina Faso"
     }
   },
   "BI": {
@@ -1173,7 +1243,9 @@
       "pol": "Burundi",
       "urd": "برونڈی",
       "kor": "부룬디",
-      "ar": "بوروندي"
+      "ar": "بوروندي",
+      "tur": "Burundi",
+      "ind": "Burundi"
     }
   },
   "KH": {
@@ -1206,7 +1278,9 @@
       "pol": "Kambodża",
       "urd": "کمبوڈیا",
       "kor": "캄보디아",
-      "ar": "كمبوديا"
+      "ar": "كمبوديا",
+      "tur": "Kamboçya",
+      "ind": "Kamboja"
     }
   },
   "CM": {
@@ -1239,7 +1313,9 @@
       "pol": "WybrzeŻe Kości Słoniowej",
       "urd": "کیمرون",
       "kor": "카메룬",
-      "ar": "الكاميرون"
+      "ar": "الكاميرون",
+      "tur": "Kamerun",
+      "ind": "Kamerun"
     }
   },
   "CA": {
@@ -1272,7 +1348,9 @@
       "pol": "Kanada",
       "urd": "کینیڈا",
       "kor": "캐나다",
-      "ar": "كندا"
+      "ar": "كندا",
+      "tur": "Kanada",
+      "ind": "Kanada"
     }
   },
   "CV": {
@@ -1305,7 +1383,9 @@
       "pol": "Republika Zielonego Przylądka",
       "urd": "کیپ ورڈی",
       "kor": "카보베르데",
-      "ar":"الرأس الأخضر"
+      "ar":"الرأس الأخضر",
+      "tur": "Yeşil Burun Adaları",
+      "ind": "Tanjung Verde"
     }
   },
   "BQ": {
@@ -1337,7 +1417,9 @@
       "pol": "Antyle Holenderskie",
       "urd": "کیریبین نیدرلینڈز",
       "kor": "카리브 네덜란드",
-      "ar": "الجزر الهولندية الكاريبية"
+      "ar": "الجزر الهولندية الكاريبية",
+      "tur": "karayip Hollanda",
+      "ind": "Karibia Belanda"
     }
   },
   "KY": {
@@ -1370,7 +1452,9 @@
       "pol": "Kajmany",
       "urd": "جزائر کیمین",
       "kor": "케이맨 제도",
-      "ar": "جزر كايمان"
+      "ar": "جزر كايمان",
+      "tur": "Cayman Adaları",
+      "ind": "Pulau cayman"
     }
   },
   "CF": {
@@ -1403,7 +1487,9 @@
       "pol": "Republika Środkowoafrykańska",
       "urd": "وسطی افریقی جمہوریہ",
       "kor": "중앙아프리카 공화국",
-      "ar": "جمهورية أفريقيا الوسطى"
+      "ar": "جمهورية أفريقيا الوسطى",
+      "tur": "Orta Afrika Cumhuriyeti",
+      "ind": "Republik Afrika Tengah"
     }
   },
   "TD": {
@@ -1436,7 +1522,9 @@
       "pol": "Czad",
       "urd": "چاڈ",
       "kor": "차드",
-      "ar": "تشاد"
+      "ar": "تشاد",
+      "tur": "Çad",
+      "ind": "Chad"
     }
   },
   "CL": {
@@ -1469,7 +1557,9 @@
       "pol": "Chile",
       "urd": "چلی",
       "kor": "칠레",
-      "ar": "تشيلي"
+      "ar": "تشيلي",
+      "tur": "Şili",
+      "ind": "Chili"
     }
   },
   "CN": {
@@ -1501,7 +1591,9 @@
       "pol": "Chiny",
       "urd": "چین",
       "kor": "중국",
-      "ar":"الصين"
+      "ar":"الصين",
+      "tur": "Çin",
+      "ind": "Cina"
     }
   },
   "CX": {
@@ -1534,7 +1626,9 @@
       "pol": "Wyspa Bożego Narodzenia",
       "urd": "جزیرہ کرسمس",
       "kor": "크리스마스 섬",
-      "ar": "جزر الكريسماس"
+      "ar": "جزر الكريسماس",
+      "tur": "Noel Adası",
+      "ind": "Pulau Natal"
     }
   },
   "CC": {
@@ -1567,7 +1661,9 @@
       "pol": "Wyspy Kokosowe",
       "urd": "جزائر کوکوس",
       "kor": "코코스 제도",
-      "ar": "جزر كوكوس"
+      "ar": "جزر كوكوس",
+      "tur": "Cocos (Keeling) Adaları",
+      "ind": "Kepulauan Cocos (Keeling)"
     }
   },
   "CO": {
@@ -1600,7 +1696,9 @@
       "pol": "Kolumbia",
       "urd": "کولمبیا",
       "kor": "콜롬비아",
-      "ar":"كولومبيا"
+      "ar":"كولومبيا",
+      "tur": "Kolombiya",
+      "ind": "Kolombia"
     }
   },
   "KM": {
@@ -1633,7 +1731,9 @@
       "pol": "Komory",
       "urd": "القمری",
       "kor": "코모로",
-      "ar": "جزر القمر"
+      "ar": "جزر القمر",
+      "tur": "Komorlar",
+      "ind": "Komoro"
     }
   },
   "CK": {
@@ -1667,7 +1767,9 @@
       "pol": "Wyspy Cooka",
       "urd": "جزائر کک",
       "kor": "쿡 제도",
-      "ar": "جزر كوك"
+      "ar": "جزر كوك",
+      "tur": "Cook adaları",
+      "ind": "Kepulauan Cook"
     }
   },
   "CR": {
@@ -1700,7 +1802,9 @@
       "pol": "Kostaryka",
       "urd": "کوسٹاریکا",
       "kor": "코스타리카",
-      "ar": "كوستاريكا"
+      "ar": "كوستاريكا",
+      "tur": "Kosta Rika",
+      "ind": "Kosta Rika"
     }
   },
   "HR": {
@@ -1733,7 +1837,9 @@
       "pol": "Chorwacja",
       "urd": "کرویئشا",
       "kor": "크로아티아",
-      "ar": "كرواتيا"
+      "ar": "كرواتيا",
+      "tur": "Hırvatistan",
+      "ind": "Kroasia"
     }
   },
   "CU": {
@@ -1767,7 +1873,9 @@
       "pol": "Kuba",
       "urd": "کیوبا",
       "kor": "쿠바",
-      "ar": "كوبا"
+      "ar": "كوبا",
+      "tur": "Küba",
+      "ind": "Kuba"
     }
   },
   "CW": {
@@ -1796,7 +1904,9 @@
       "pol": "Curaçao",
       "urd": "کیوراساؤ",
       "kor": "퀴라소",
-      "ar": "كوراساو"
+      "ar": "كوراساو",
+      "tur": "Curaçao",
+      "ind": "Curacao"
     }
   },
   "CY": {
@@ -1829,7 +1939,9 @@
       "pol": "Cypr",
       "urd": "قبرص",
       "kor": "키프로스",
-      "ar": "قبرص"
+      "ar": "قبرص",
+      "tur": "Kıbrıs",
+      "ind": "Siprus"
     }
   },
   "CZ": {
@@ -1862,7 +1974,9 @@
       "pol": "Czechy",
       "urd": "چيک",
       "kor": "체코",
-      "ar": "التشيك"
+      "ar": "التشيك",
+      "tur": "Çek Cumhuriyeti",
+      "ind": "Republik Ceko"
     }
   },
   "CD": {
@@ -1895,7 +2009,9 @@
       "pol": "Demokratyczna Republika Konga",
       "urd": "\nکانگو",
       "kor": "콩고 민주 공화국",
-      "ar":"جمهورية الكونغو الديمقراطية"
+      "ar":"جمهورية الكونغو الديمقراطية",
+      "tur": "Demokratik Kongo Cumhuriyeti bayrağı",
+      "ind": "Republik Demokratik Kongo"
     }
   },
   "DK": {
@@ -1928,7 +2044,9 @@
       "pol": "Dania",
       "urd": "ڈنمارک",
       "kor": "덴마크",
-      "ar": "الدنمارك"
+      "ar": "الدنمارك",
+      "tur": "Danimarka",
+      "ind": "Denmark"
     }
   },
   "DJ": {
@@ -1961,7 +2079,9 @@
       "pol": "Dżibuti",
       "urd": "جبوتی",
       "kor": "지부티",
-      "ar": "جيبوتى"
+      "ar": "جيبوتى",
+      "tur": "Cibuti",
+      "ind": "Djibouti"
     }
   },
   "DM": {
@@ -1994,7 +2114,9 @@
       "pol": "Dominika",
       "urd": "ڈومینیکا",
       "kor": "도미니카 공화국",
-      "ar": "دومينيكا"
+      "ar": "دومينيكا",
+      "tur": "Dominika",
+      "ind": "Dominika"
     }
   },
   "DO": {
@@ -2029,7 +2151,9 @@
       "pol": "Dominikana",
       "urd": "ڈومینیکن",
       "kor": "도미니카 공화국",
-      "ar": "جمهورية الدومينيكان"
+      "ar": "جمهورية الدومينيكان",
+      "tur": "Dominik Cumhuriyeti",
+      "ind": "Republik Dominika"
     }
   },
   "EC": {
@@ -2062,7 +2186,9 @@
       "pol": "Ekwador",
       "urd": "ایکواڈور",
       "kor": "에콰도르",
-      "ar": "الإكوادور"
+      "ar": "الإكوادور",
+      "tur": "Ekvador",
+      "ind": "Ekuador"
     }
   },
   "EG": {
@@ -2095,7 +2221,9 @@
       "pol": "Egipt",
       "urd": "مصر",
       "kor": "이집트",
-      "ar": "مصر"
+      "ar": "مصر",
+      "tur": "Mısır",
+      "ind": "Mesir"
     }
   },
   "SV": {
@@ -2129,7 +2257,9 @@
       "pol": "Salwador",
       "urd": "ایل سیلواڈور",
       "kor": "엘살바도르",
-      "ar": "السلفادور"
+      "ar": "السلفادور",
+      "tur": "El Salvador",
+      "ind": "El Salvador"
     }
   },
   "GQ": {
@@ -2162,7 +2292,9 @@
       "pol": "Gwinea Równikowa",
       "urd": "استوائی گنی",
       "kor": "적도 기니",
-      "ar": "غينيا الاستوائية"
+      "ar": "غينيا الاستوائية",
+      "tur": "Ekvator Ginesi",
+      "ind": "Guinea Khatulistiwa"
     }
   },
   "ER": {
@@ -2195,7 +2327,9 @@
       "pol": "Erytrea",
       "urd": "ارتریا",
       "kor": "에리트레아",
-      "ar": "إريتريا"
+      "ar": "إريتريا",
+      "tur": "Eritre",
+      "ind": "Eritrea"
     }
   },
   "EE": {
@@ -2228,7 +2362,9 @@
       "pol": "Estonia",
       "urd": "اسٹونیا",
       "kor": "에스토니아",
-      "ar": "إستونيا"
+      "ar": "إستونيا",
+      "tur": "Estonya",
+      "ind": "Estonia"
     }
   },
   "SZ": {
@@ -2260,7 +2396,9 @@
       "zho": "斯威士兰",
       "urd": "سوازی لینڈ",
       "kor": "에스와티니",
-      "ar": "سوازيلاند"
+      "ar": "سوازيلاند",
+      "tur": "Eswatini",
+      "ind": "Eswatini"
     }
   },
   "ET": {
@@ -2293,7 +2431,9 @@
       "pol": "Etiopia",
       "urd": "ایتھوپیا",
       "kor": "에티오피아",
-      "ar": "إثيوبيا"
+      "ar": "إثيوبيا",
+      "tur": "Etiyopya",
+      "ind": "Ethiopia"
     }
   },
   "FK": {
@@ -2325,7 +2465,9 @@
       "pol": "Falklandy",
       "urd": "جزائر فاکلینڈ",
       "kor": "포클랜드 제도",
-      "ar": "جزر فوكلاند"
+      "ar": "جزر فوكلاند",
+      "tur": "",
+      "ind": ""
     }
   },
   "FO": {
@@ -2357,7 +2499,9 @@
       "pol": "Wyspy Owcze",
       "urd": "جزائر فارو",
       "kor": "페로 제도",
-      "ar": "جزر فارو"
+      "ar": "جزر فارو",
+      "tur": "Faroe Adaları",
+      "ind": "Kepulauan Faroe"
     }
   },
   "FJ": {
@@ -2389,7 +2533,9 @@
       "pol": "Fidżi",
       "urd": "فجی",
       "kor": "피지",
-      "ar": "فيجي"
+      "ar": "فيجي",
+      "tur": "Fiji",
+      "ind": "Fiji"
     }
   },
   "FI": {
@@ -2421,7 +2567,9 @@
       "pol": "Finlandia",
       "urd": "فن لینڈ",
       "kor": "핀란드",
-      "ar": "فنلندا"
+      "ar": "فنلندا",
+      "tur": "Finlandiya",
+      "ind": "Finlandia"
     }
   },
   "FR": {
@@ -2453,7 +2601,9 @@
       "pol": "Francja",
       "urd": "فرانس",
       "kor": "프랑스",
-      "ar": "فرنسا"
+      "ar": "فرنسا",
+      "tur": "Fransa",
+      "ind": "Perancis"
     }
   },
   "GF": {
@@ -2485,7 +2635,9 @@
       "pol": "Gujana Francuska",
       "urd": "فرانسیسی گیانا",
       "kor": "프랑스령 기아나",
-      "ar": "غويانا"
+      "ar": "غويانا",
+      "tur": "Fransız Guyanası",
+      "ind": "Guyana Perancis"
     }
   },
   "PF": {
@@ -2517,7 +2669,9 @@
       "pol": "Polinezja Francuska",
       "urd": "فرانسیسی پولینیشیا",
       "kor": "프랑스령 폴리네시아",
-      "ar": "بولينيزيا الفرنسية"
+      "ar": "بولينيزيا الفرنسية",
+      "tur": "French Polynesia",
+      "ind": "French Polynesia"
     }
   },
   "TF": {
@@ -2547,7 +2701,9 @@
       "pol": "Francuskie Terytoria Południowe i Antarktyczne",
       "urd": "سرزمین جنوبی فرانسیسیہ و انٹارکٹیکا",
       "kor": "프랑스령 남부와 남극 지역",
-      "ar": "المحيط الجنوبي وأنتاركتيكا"
+      "ar": "المحيط الجنوبي وأنتاركتيكا",
+      "tur": "Fransız Güney ve Antarktika Toprakları",
+      "ind": "Daratan Selatan dan Antartika Prancis"
     }
   },
   "GA": {
@@ -2579,7 +2735,9 @@
       "pol": "Gabon",
       "urd": "گیبون",
       "kor": "가봉",
-      "ar": "الغابون"
+      "ar": "الغابون",
+      "tur": "Gabon",
+      "ind": "Gabon"
     }
   },
   "GM": {
@@ -2611,7 +2769,9 @@
       "pol": "Gambia",
       "urd": "گیمبیا",
       "kor": "감비아",
-      "ar": "غامبيا"
+      "ar": "غامبيا",
+      "tur": "Gambiya",
+      "ind": "Gambia"
     }
   },
   "GE": {
@@ -2643,7 +2803,9 @@
       "pol": "Gruzja",
       "urd": "جارجیا",
       "kor": "조지아",
-      "ar": "جورجيا"
+      "ar": "جورجيا",
+      "tur": "Gürcistan",
+      "ind": "Georgia"
     }
   },
   "DE": {
@@ -2675,7 +2837,9 @@
       "pol": "Niemcy",
       "urd": "جرمنی",
       "kor": "독일",
-      "ar": "ألمانيا"
+      "ar": "ألمانيا",
+      "tur": "Almanya",
+      "ind": "Jerman"
     }
   },
   "GH": {
@@ -2707,7 +2871,9 @@
       "pol": "Ghana",
       "urd": "گھانا",
       "kor": "가나",
-      "ar": "غانا"
+      "ar": "غانا",
+      "tur": "Gana",
+      "ind": "Ghana"
     }
   },
   "GI": {
@@ -2739,7 +2905,9 @@
       "pol": "Gibraltar",
       "urd": "جبل الطارق",
       "kor": "지브롤터",
-      "ar": "جبل الطارق"
+      "ar": "جبل الطارق",
+      "tur": "Gibraltar",
+      "ind": "Gibraltar"
     }
   },
   "GR": {
@@ -2771,7 +2939,9 @@
       "pol": "Grecja",
       "urd": "یونان",
       "kor": "그리스",
-      "ar": "اليونان"
+      "ar": "اليونان",
+      "tur": "Yunanistan",
+      "ind": "Yunani"
     }
   },
   "GL": {
@@ -2803,7 +2973,9 @@
       "pol": "Grenlandia",
       "urd": "گرین لینڈ",
       "kor": "그린란드",
-      "ar": "جرينلاند"
+      "ar": "جرينلاند",
+      "tur": "Greenland",
+      "ind": "Greenland"
     }
   },
   "GD": {
@@ -2835,7 +3007,9 @@
       "pol": "Grenada",
       "urd": "گریناڈا",
       "kor": "그레나다",
-      "ar": "جرينادا"
+      "ar": "جرينادا",
+      "tur": "Grenada",
+      "ind": "Grenada"
     }
   },
   "GP": {
@@ -2867,7 +3041,9 @@
       "pol": "Gwadelupa",
       "urd": "گواڈیلوپ",
       "kor": "과들루프",
-      "ar": "جزر جوادلوب"
+      "ar": "جزر جوادلوب",
+      "tur": "Guadeloupe",
+      "ind": "Guadeloupe"
     }
   },
   "GU": {
@@ -2899,7 +3075,9 @@
       "pol": "Guam",
       "urd": "گوام",
       "kor": "괌",
-      "ar": "غوام"
+      "ar": "غوام",
+      "tur": "Guam",
+      "ind": "Guam"
     }
   },
   "GT": {
@@ -2931,7 +3109,9 @@
       "pol": "Gwatemala",
       "urd": "گواتیمالا",
       "kor": "과테말라",
-      "ar": "غواتيمالا"
+      "ar": "غواتيمالا",
+      "tur": "Guatemala",
+      "ind": "Guatemala"
     }
   },
   "GG": {
@@ -2963,7 +3143,9 @@
       "pol": "Guernsey",
       "urd": "گرنزی",
       "kor": "건지 섬",
-      "ar": "جيرنزي"
+      "ar": "جيرنزي",
+      "tur": "Guernsey",
+      "ind": "Guernsey"
     }
   },
   "GN": {
@@ -2995,7 +3177,9 @@
       "pol": "Gwinea",
       "urd": "گنی",
       "kor": "기니",
-      "ar": "غينيا"
+      "ar": "غينيا",
+      "tur": "Gine",
+      "ind": "Guinea"
     }
   },
   "GW": {
@@ -3027,7 +3211,9 @@
       "pol": "Gwinea Bissau",
       "urd": "گنی بساؤ",
       "kor": "기니비사우",
-      "ar": "غينيا بيساو"
+      "ar": "غينيا بيساو",
+      "tur": "Gine-Bissau ",
+      "ind": "Guinea-Bissau"
     }
   },
   "GY": {
@@ -3059,7 +3245,9 @@
       "pol": "Gujana",
       "urd": "گیانا",
       "kor": "가이아나",
-      "ar": "غويانا"
+      "ar": "غويانا",
+      "tur": "Guyana",
+      "ind": "Guyana"
     }
   },
   "HT": {
@@ -3092,7 +3280,9 @@
       "pol": "Haiti",
       "urd": "ہیٹی",
       "kor": "아이티",
-      "ar": "هايتي"
+      "ar": "هايتي",
+      "tur": "Haiti",
+      "ind": "Haiti"
     }
   },
   "HM": {
@@ -3122,7 +3312,9 @@
       "pol": "Wyspy Heard i McDonalda",
       "urd": "جزیرہ ہرڈ و جزائر مکڈونلڈ",
       "kor": "허드 맥도널드 제도",
-      "ar": "جزر هرد و ماكدونالد"
+      "ar": "جزر هرد و ماكدونالد",
+      "tur": "Heard Adası ve McDonald Adaları",
+      "ind": "Pulau Heard dan Kepulauan McDonald"
     }
   },
   "HN": {
@@ -3154,7 +3346,9 @@
       "pol": "Honduras",
       "urd": "ہونڈوراس",
       "kor": "온두라스",
-      "ar": "هندوراس"
+      "ar": "هندوراس",
+      "tur": "Honduras",
+      "ind": "Honduras"
     }
   },
   "HK": {
@@ -3185,7 +3379,9 @@
       "pol": "Hongkong",
       "urd": "ہانگ کانگ",
       "kor": "홍콩",
-      "ar": "هونج كونج"
+      "ar": "هونج كونج",
+      "tur": "Hongkong",
+      "ind": "Hongkong"
     }
   },
   "HU": {
@@ -3217,7 +3413,9 @@
       "pol": "Węgry",
       "urd": "مجارستان",
       "kor": "헝가리",
-      "ar": "المجر"
+      "ar": "المجر",
+      "tur": "Macaristan",
+      "ind": "Hongaria"
     }
   },
   "IS": {
@@ -3249,7 +3447,9 @@
       "pol": "Islandia",
       "urd": "آئس لینڈ",
       "kor": "아이슬란드",
-      "ar": "آيسلندا"
+      "ar": "آيسلندا",
+      "tur": "İzlanda",
+      "ind": "Islandia"
     }
   },
   "IN": {
@@ -3281,7 +3481,9 @@
       "pol": "Indie",
       "urd": "بھارت",
       "kor": "인도",
-      "ar": "الهند"
+      "ar": "الهند",
+      "tur": "Hindistan",
+      "ind": "India"
     }
   },
   "ID": {
@@ -3313,7 +3515,9 @@
       "pol": "Indonezja",
       "urd": "انڈونیشیا",
       "kor": "인도네시아",
-      "ar": "اندونيسيا"
+      "ar": "اندونيسيا",
+      "tur": "Endonezya",
+      "ind": "Indonesia"
     }
   },
   "IR": {
@@ -3345,7 +3549,9 @@
       "pol": "Iran",
       "urd": "ایران",
       "kor": "이란",
-      "ar": "ایران"
+      "ar": "ایران",
+      "tur": "İran",
+      "ind": "Iran"
     }
   },
   "IQ": {
@@ -3377,7 +3583,9 @@
       "pol": "Irak",
       "urd": "عراق",
       "kor": "이라크",
-      "ar": "العراق"
+      "ar": "العراق",
+      "tur": "Irak",
+      "ind": "Irak"
     }
   },
   "IE": {
@@ -3409,7 +3617,9 @@
       "pol": "Irlandia",
       "urd": "جزیرہ آئرلینڈ",
       "kor": "아일랜드",
-      "ar": " أيرلندا"
+      "ar": " أيرلندا",
+      "tur": "İrlanda",
+      "ind": "Irlandia"
     }
   },
   "IM": {
@@ -3441,7 +3651,9 @@
       "pol": "Wyspa Man",
       "urd": "آئل آف مین",
       "kor": "맨섬",
-      "ar": "جزيرة مان"
+      "ar": "جزيرة مان",
+      "tur": "Man Adası",
+      "ind": "Pulau manusia"
     }
   },
   "IL": {
@@ -3473,7 +3685,9 @@
       "pol": "Izrael",
       "urd": "اسرائیل",
       "kor": "이스라엘",
-      "ar": "إسرائيل"
+      "ar": "إسرائيل",
+      "tur": "İsrail",
+      "ind": "Israel"
     }
   },
   "IT": {
@@ -3505,7 +3719,9 @@
       "pol": "Włochy",
       "urd": "اطالیہ",
       "kor": "이탈리아",
-      "ar": "إيطاليا"
+      "ar": "إيطاليا",
+      "tur": "İtalya",
+      "ind": "Italia"
     }
   },
   "CI": {
@@ -3537,7 +3753,9 @@
       "pol": "WybrzeŻe Kości Słoniowej",
       "urd": "آئیوری کوسٹ",
       "kor": "코트디부아르",
-      "ar": "ساحل العاج"
+      "ar": "ساحل العاج",
+      "tur": "Fildişi Sahili",
+      "ind": "pantai Gading"
     }
   },
   "JM": {
@@ -3569,7 +3787,9 @@
       "pol": "Jamajka",
       "urd": "جمیکا",
       "kor": "자메이카",
-      "ar": "جامايكا"
+      "ar": "جامايكا",
+      "tur": "Jamaika",
+      "ind": "Jamaika"
     }
   },
   "JP": {
@@ -3601,7 +3821,9 @@
       "pol": "Japonia",
       "urd": "جاپان",
       "kor": "일본",
-      "ar": "اليابان"
+      "ar": "اليابان",
+      "tur": "Japonya",
+      "ind": "Jepang"
     }
   },
   "JE": {
@@ -3633,7 +3855,9 @@
       "pol": "Jersey",
       "urd": "جرزی",
       "kor": "저지 섬",
-      "ar": "جزيرة جيرزي"
+      "ar": "جزيرة جيرزي",
+      "tur": "Jersey",
+      "ind": "Jersey"
     }
   },
   "JO": {
@@ -3665,7 +3889,9 @@
       "pol": "Jordania",
       "urd": "اردن",
       "kor": "요르단",
-      "ar": "الأردن"
+      "ar": "الأردن",
+      "tur": "Ürdün",
+      "ind": "Yordania"
     }
   },
   "KZ": {
@@ -3697,7 +3923,9 @@
       "pol": "Kazachstan",
       "urd": "قازقستان",
       "kor": "카자흐스탄",
-      "ar": "كازاخستان"
+      "ar": "كازاخستان",
+      "tur": "Kazakistan",
+      "ind": "Kazakhstan"
     }
   },
   "KE": {
@@ -3729,7 +3957,9 @@
       "pol": "Kenia",
       "urd": "کینیا",
       "kor": "케냐",
-      "ar": "كينيا"
+      "ar": "كينيا",
+      "tur": "Kenya",
+      "ind": "Kenya"
     }
   },
   "KI": {
@@ -3761,7 +3991,9 @@
       "pol": "Kiribati",
       "urd": "کیریباتی",
       "kor": "키리바시",
-      "ar": "كيريباتي"
+      "ar": "كيريباتي",
+      "tur": "Kiribati",
+      "ind": "Kiribati"
     }
   },
   "XK": {
@@ -3792,7 +4024,9 @@
       "pol": "Kosowo",
       "urd": "کوسووہ",
       "kor": "코소보",
-      "ar": "كوسوفو"
+      "ar": "كوسوفو",
+      "tur": "Kosovo",
+      "ind": "Kosovo"
     }
   },
   "KW": {
@@ -3824,7 +4058,9 @@
       "pol": "Kuwejt",
       "urd": "کویت",
       "kor": "쿠웨이트",
-      "ar": "الكويت"
+      "ar": "الكويت",
+      "tur": "Kuveyt",
+      "ind": "Kuwait"
     }
   },
   "KG": {
@@ -3856,7 +4092,9 @@
       "pol": "Kirgistan",
       "urd": "کرغیزستان",
       "kor": "키르기스스탄",
-      "ar": "قرغيزستان"
+      "ar": "قرغيزستان",
+      "tur": "Kırgızistan",
+      "ind": "Kirgizstan"
     }
   },
   "LA": {
@@ -3888,7 +4126,9 @@
       "pol": "Laos",
       "urd": "لاؤس",
       "kor": "라오스",
-      "ar": "لاوس"
+      "ar": "لاوس",
+      "tur": "Laos",
+      "ind": "Laos"
     }
   },
   "LV": {
@@ -3920,7 +4160,9 @@
       "pol": "Łotwa",
       "urd": "لٹویا",
       "kor": "라트비아",
-      "ar": "لاتفيا"
+      "ar": "لاتفيا",
+      "tur": "Letonya",
+      "ind": "Latvia"
     }
   },
   "LB": {
@@ -3952,7 +4194,9 @@
       "pol": "Liban",
       "urd": "لبنان",
       "kor": "레바논",
-      "ar": "لبنان"
+      "ar": "لبنان",
+      "tur": "Lübnan",
+      "ind": "Lebanon"
     }
   },
   "LS": {
@@ -3985,7 +4229,9 @@
       "pol": "Lesotho",
       "urd": "لیسوتھو",
       "kor": "레소토",
-      "ar": "ليسوتو"
+      "ar": "ليسوتو",
+      "tur": "Lesotho",
+      "ind": "Lesotho"
     }
   },
   "LR": {
@@ -4017,7 +4263,9 @@
       "pol": "Liberia",
       "urd": "لائبیریا",
       "kor": "라이베리아",
-      "ar": "ليبيريا"
+      "ar": "ليبيريا",
+      "tur": "Liberya",
+      "ind": "Liberia"
     }
   },
   "LY": {
@@ -4049,7 +4297,9 @@
       "pol": "Libia",
       "urd": "لیبیا",
       "kor": "리비아",
-      "ar": "ليبيا"
+      "ar": "ليبيا",
+      "tur": "Libya",
+      "ind": "Libya"
     }
   },
   "LI": {
@@ -4081,7 +4331,9 @@
       "pol": "Liechtenstein",
       "urd": "لیختینستائن",
       "kor": "리히텐슈타인",
-      "ar": "ليختنشتاين"
+      "ar": "ليختنشتاين",
+      "tur": "Lihtenştayn",
+      "ind": "Liechtenstein"
     }
   },
   "LT": {
@@ -4113,7 +4365,9 @@
       "pol": "Litwa",
       "urd": "لتھووینیا",
       "kor": "리투아니아",
-      "ar": "ليتوانيا"
+      "ar": "ليتوانيا",
+      "tur": "Litvanya",
+      "ind": "Lituania"
     }
   },
   "LU": {
@@ -4145,7 +4399,9 @@
       "pol": "Luksemburg",
       "urd": "لکسمبرگ",
       "kor": "룩셈부르크",
-      "ar": "لوكسمبورغ"
+      "ar": "لوكسمبورغ",
+      "tur": "Lüksemburg",
+      "ind": "Luksemburg"
     }
   },
   "MO": {
@@ -4176,7 +4432,9 @@
       "pol": "Makau",
       "urd": "مکاؤ",
       "kor": "마카오",
-      "ar": "ماكاو الصينية"
+      "ar": "ماكاو الصينية",
+      "tur": "Macao",
+      "ind": "Macao"
     }
   },
   "MK": {
@@ -4208,7 +4466,9 @@
       "pol": "Macedonia",
       "urd": "مقدونیہ",
       "kor": "마케도니아",
-      "ar": "مقدونيا"
+      "ar": "مقدونيا",
+      "tur": "Makedonie",
+      "ind": "Makedonie"
     }
   },
   "MG": {
@@ -4240,7 +4500,9 @@
       "pol": "Madagaskar",
       "urd": "مڈغاسکر",
       "kor": "마다가스카르",
-      "ar": "مدغشقر"
+      "ar": "مدغشقر",
+      "tur": "Madagaskar",
+      "ind": "Madagaskar"
     }
   },
   "MW": {
@@ -4272,7 +4534,9 @@
       "pol": "Malawi",
       "urd": "ملاوی",
       "kor": "말라위",
-      "ar": "ملاوي"
+      "ar": "ملاوي",
+      "tur": "Malawi",
+      "ind": "Malawi"
     }
   },
   "MY": {
@@ -4304,7 +4568,9 @@
       "pol": "Malezja",
       "urd": "ملائیشیا",
       "kor": "말레이시아",
-      "ar": "ماليزيا"
+      "ar": "ماليزيا",
+      "tur": "Malezya",
+      "ind": "Malaysia"
     }
   },
   "MV": {
@@ -4336,7 +4602,9 @@
       "pol": "Malediwy",
       "urd": "مالدیپ",
       "kor": "몰디브",
-      "ar": "جزر المالديف"
+      "ar": "جزر المالديف",
+      "tur": "Maldivler",
+      "ind": "Maladewa"
     }
   },
   "ML": {
@@ -4368,7 +4636,9 @@
       "pol": "Mali",
       "urd": "مالی",
       "kor": "말리",
-      "ar": "مالي"
+      "ar": "مالي",
+      "tur": "Mali",
+      "ind": "Mali"
     }
   },
   "MT": {
@@ -4400,7 +4670,9 @@
       "pol": "Malta",
       "urd": "مالٹا",
       "kor": "몰타",
-      "ar": "مالطا"
+      "ar": "مالطا",
+      "tur": "Malta",
+      "ind": "Malta"
     }
   },
   "MH": {
@@ -4432,7 +4704,9 @@
       "pol": "Wyspy Marshalla",
       "urd": "جزائر مارشل",
       "kor": "마셜 제도",
-      "ar": "جزر مارشال"
+      "ar": "جزر مارشال",
+      "tur": "Marshall Adaları",
+      "ind": "Kepulauan Marshall"
     }
   },
   "MQ": {
@@ -4464,7 +4738,9 @@
       "pol": "Martynika",
       "urd": "مارٹینیک",
       "kor": "마르티니크",
-      "ar": "مارتينيك"
+      "ar": "مارتينيك",
+      "tur": "Martinik",
+      "ind": "Martinik"
     }
   },
   "MR": {
@@ -4496,7 +4772,9 @@
       "pol": "Mauretania",
       "urd": "موریتانیہ",
       "kor": "모리타니",
-      "ar": "موريتانيا"
+      "ar": "موريتانيا",
+      "tur": "Moritanya",
+      "ind": "Mauritania"
     }
   },
   "MU": {
@@ -4528,7 +4806,9 @@
       "pol": "Mauritius",
       "urd": "موریشس",
       "kor": "모리셔스",
-      "ar": "موريشيوس"
+      "ar": "موريشيوس",
+      "tur": "Mauritius",
+      "ind": "Mauritius"
     }
   },
   "YT": {
@@ -4560,7 +4840,9 @@
       "pol": "Majotta",
       "urd": "مایوٹ",
       "kor": "마요트",
-      "ar": "مايوت"
+      "ar": "مايوت",
+      "tur": "Mayotte",
+      "ind": "Mayotte"
     }
   },
   "MX": {
@@ -4592,7 +4874,9 @@
       "pol": "Meksyk",
       "urd": "میکسیکو",
       "kor": "멕시코",
-      "ar": "المكسيك"
+      "ar": "المكسيك",
+      "tur": "Meksika",
+      "ind": "Meksiko"
     }
   },
   "FM": {
@@ -4624,7 +4908,9 @@
       "pol": "Mikronezja",
       "urd": "مائکرونیشیا",
       "kor": "미크로네시아",
-      "ar": "مايكرونيزيا"
+      "ar": "مايكرونيزيا",
+      "tur": "Mikronezya",
+      "ind": "Mikronesia"
     }
   },
   "MD": {
@@ -4656,7 +4942,9 @@
       "pol": "Mołdawia",
       "urd": "مالدووا",
       "kor": "몰도바",
-      "ar": "مولدوفا"
+      "ar": "مولدوفا",
+      "tur": "Moldova",
+      "ind": "Moldova"
     }
   },
   "MC": {
@@ -4688,7 +4976,9 @@
       "pol": "Monako",
       "urd": "موناکو",
       "kor": "모나코",
-      "ar": "موناكو"
+      "ar": "موناكو",
+      "tur": "Monako",
+      "ind": "Monako"
     }
   },
   "MN": {
@@ -4720,7 +5010,9 @@
       "pol": "Mongolia",
       "urd": "منگولیا",
       "kor": "몽골국",
-      "ar": "منغوليا"
+      "ar": "منغوليا",
+      "tur": "Moğolistan",
+      "ind": "Mongolia"
     }
   },
   "ME": {
@@ -4752,7 +5044,9 @@
       "pol": "Czarnogóra",
       "urd": "مونٹینیگرو",
       "kor": "몬테네그로",
-      "ar": "الجبل الأسود"
+      "ar": "الجبل الأسود",
+      "tur": "Karadağ",
+      "ind": "Montenegro"
     }
   },
   "MS": {
@@ -4784,7 +5078,9 @@
       "pol": "Montserrat",
       "urd": "مانٹسریٹ",
       "kor": "몬트세랫",
-      "ar": "مونتسرات"
+      "ar": "مونتسرات",
+      "tur": "Montserrat",
+      "ind": "Montserrat"
     }
   },
   "MA": {
@@ -4816,7 +5112,9 @@
       "pol": "Maroko",
       "urd": "مراکش",
       "kor": "모로코",
-      "ar": "المغرب"
+      "ar": "المغرب",
+      "tur": "Fas",
+      "ind": "Maroko"
     }
   },
   "MZ": {
@@ -4848,7 +5146,9 @@
       "pol": "Mozambik",
       "urd": "موزمبیق",
       "kor": "모잠비크",
-      "ar": "موزمبيق"
+      "ar": "موزمبيق",
+      "tur": "Mozambik",
+      "ind": "Mozambik"
     }
   },
   "MM": {
@@ -4880,7 +5180,9 @@
       "pol": "Mjanma",
       "urd": "میانمار",
       "kor": "미얀마",
-      "ar": "ميانمار"
+      "ar": "ميانمار",
+      "tur": "Myanmar",
+      "ind": "Myanmar"
     }
   },
   "NA": {
@@ -4913,7 +5215,9 @@
       "pol": "Namibia",
       "urd": "نمیبیا",
       "kor": "나미비아",
-      "ar": "ناميبيا"
+      "ar": "ناميبيا",
+      "tur": "Namibya",
+      "ind": "Namibia"
     }
   },
   "NR": {
@@ -4945,7 +5249,9 @@
       "pol": "Nauru",
       "urd": "ناورو",
       "kor": "나우루",
-      "ar": "ناورو"
+      "ar": "ناورو",
+      "tur": "Nauru",
+      "ind": "Nauru"
     }
   },
   "NP": {
@@ -4977,7 +5283,9 @@
       "pol": "Nepal",
       "urd": "نیپال",
       "kor": "네팔",
-      "ar": "نيبال"
+      "ar": "نيبال",
+      "tur": "Nepal",
+      "ind": "Nepal"
     }
   },
   "NL": {
@@ -5009,7 +5317,9 @@
       "pol": "Holandia",
       "urd": "نیدرلینڈز",
       "kor": "네덜란드",
-      "ar": "هولندا"
+      "ar": "هولندا",
+      "tur": "Hollanda",
+      "ind": "Belanda"
     }
   },
   "NC": {
@@ -5041,7 +5351,9 @@
       "pol": "Nowa Kaledonia",
       "urd": "نیو کیلیڈونیا",
       "kor": "누벨칼레도니",
-      "ar": "كاليدونيا الجديدة"
+      "ar": "كاليدونيا الجديدة",
+      "tur": "Yeni Kaledonya",
+      "ind": "Kaledonia Baru"
     }
   },
   "NZ": {
@@ -5073,7 +5385,9 @@
       "pol": "Nowa Zelandia",
       "urd": "نیوزی لینڈ",
       "kor": "뉴질랜드",
-      "ar": "نيوزيلندا"
+      "ar": "نيوزيلندا",
+      "tur": "Yeni Zelanda",
+      "ind": "Selandia Baru"
     }
   },
   "NI": {
@@ -5105,7 +5419,9 @@
       "pol": "Nikaragua",
       "urd": "نکاراگوا",
       "kor": "니카라과",
-      "ar": "نيكاراجوا"
+      "ar": "نيكاراجوا",
+      "tur": "Nicaragua",
+      "ind": "Nicaragua"
     }
   },
   "NE": {
@@ -5137,7 +5453,9 @@
       "pol": "Niger",
       "urd": "نائجر",
       "kor": "니제르",
-      "ar": "النيجر"
+      "ar": "النيجر",
+      "tur": "Nijer",
+      "ind": "Niger"
     }
   },
   "NG": {
@@ -5169,7 +5487,9 @@
       "pol": "Nigeria",
       "urd": "نائجیریا",
       "kor": "나이지리아",
-      "ar": "نيجيريا"
+      "ar": "نيجيريا",
+      "tur": "Nijerya",
+      "ind": "Nigeria"
     }
   },
   "NU": {
@@ -5201,7 +5521,9 @@
       "pol": "Niue",
       "urd": "نیووے",
       "kor": "니우에",
-      "ar": "نيوي"
+      "ar": "نيوي",
+      "tur": "Niue",
+      "ind": "Niue"
     }
   },
   "NF": {
@@ -5233,7 +5555,9 @@
       "pol": "Wyspa Norfolk",
       "urd": "جزیرہ نورفک",
       "kor": "노퍽 섬",
-      "ar": "نورفولك"
+      "ar": "نورفولك",
+      "tur": "Norfolk",
+      "ind": "Norfolk"
     }
   },
   "KP": {
@@ -5265,7 +5589,9 @@
       "pol": "Korea Północna",
       "urd": "شمالی کوریا",
       "kor": "조선",
-      "ar": "كوريا الشمالية"
+      "ar": "كوريا الشمالية",
+      "tur": "Kuzey Kore",
+      "ind": "Korea Utara"
     }
   },
   "MP": {
@@ -5297,7 +5623,9 @@
       "pol": "Mariany Północne",
       "urd": "جزائر شمالی ماریانا",
       "kor": "북마리아나 제도",
-      "ar": "جزر ماريانا الشمالية"
+      "ar": "جزر ماريانا الشمالية",
+      "tur": "Kuzey Mariana Adaları",
+      "ind": "Kepulauan Mariana Utara"
     }
   },
   "NO": {
@@ -5329,7 +5657,9 @@
       "pol": "Norwegia",
       "urd": "ناروے",
       "kor": "노르웨이",
-      "ar": "النرويج"
+      "ar": "النرويج",
+      "tur": "Norveç",
+      "ind": "Norwegia"
     }
   },
   "OM": {
@@ -5361,7 +5691,9 @@
       "pol": "Oman",
       "urd": "عمان",
       "kor": "오만",
-      "ar": "سلطنة عمان"
+      "ar": "سلطنة عمان",
+      "tur": "Umman",
+      "ind": "Oman"
     }
   },
   "PK": {
@@ -5393,7 +5725,9 @@
       "pol": "Pakistan",
       "urd": "پاکستان",
       "kor": "파키스탄",
-      "ar": "باكستان"
+      "ar": "باكستان",
+      "tur": "Pakistan",
+      "ind": "Pakistan"
     }
   },
   "PW": {
@@ -5425,7 +5759,9 @@
       "pol": "Palau",
       "urd": "پلاؤ",
       "kor": "팔라우",
-      "ar": "بالاو"
+      "ar": "بالاو",
+      "tur": "Palau",
+      "ind": "Palau"
     }
   },
   "PS": {
@@ -5457,7 +5793,9 @@
       "pol": "Palestyna",
       "urd": "فلسطین",
       "kor": "팔레스타인",
-      "ar": "فلسطين"
+      "ar": "فلسطين",
+      "tur": "Filistin",
+      "ind": "Palestina"
     }
   },
   "PA": {
@@ -5490,7 +5828,9 @@
       "pol": "Panama",
       "urd": "پاناما",
       "kor": "파나마",
-      "ar": "بنما"
+      "ar": "بنما",
+      "tur": "Panama",
+      "ind": "Panama"
     }
   },
   "PG": {
@@ -5522,7 +5862,9 @@
       "pol": "Papua-Nowa Gwinea",
       "urd": "پاپوا نیو گنی",
       "kor": "파푸아뉴기니",
-      "ar": "بابوا غينيا الجديدة"
+      "ar": "بابوا غينيا الجديدة",
+      "tur": "Papua Yeni Gine",
+      "ind": "Papua Nugini"
     }
   },
   "PY": {
@@ -5554,7 +5896,9 @@
       "pol": "Paragwaj",
       "urd": "پیراگوئے",
       "kor": "파라과이",
-      "ar": "باراغواي"
+      "ar": "باراغواي",
+      "tur": "Paraguay",
+      "ind": "Paraguay"
     }
   },
   "PE": {
@@ -5586,7 +5930,9 @@
       "pol": "Peru",
       "urd": "پیرو",
       "kor": "페루",
-      "ar": "بيرو"
+      "ar": "بيرو",
+      "tur": "Peru",
+      "ind": "Peru"
     }
   },
   "PH": {
@@ -5618,7 +5964,9 @@
       "pol": "Filipiny",
       "urd": "فلپائن",
       "kor": "필리핀",
-      "ar": "الفلبين"
+      "ar": "الفلبين",
+      "tur": "Filipinler",
+      "ind": "Filipina"
     }
   },
   "PN": {
@@ -5650,7 +5998,9 @@
       "pol": "Pitcairn",
       "urd": "جزائر پٹکیرن",
       "kor": "핏케언 제도",
-      "ar": "جزر بيتكيرن"
+      "ar": "جزر بيتكيرن",
+      "tur": "Pitcairn",
+      "ind": "Pitcairn"
     }
   },
   "PL": {
@@ -5682,7 +6032,9 @@
       "pol": "Polska",
       "urd": "پولینڈ",
       "kor": "폴란드",
-      "ar": "بولندا"
+      "ar": "بولندا",
+      "tur": "Polonya",
+      "ind": "Polandia"
     }
   },
   "PT": {
@@ -5714,7 +6066,9 @@
       "pol": "Portugalia",
       "urd": "پرتگال",
       "kor": "포르투갈",
-      "ar": "البرتغال"    
+      "ar": "البرتغال",
+      "tur": "Portekiz",
+      "ind": "Portugal" 
     }
   },
   "PR": {
@@ -5747,7 +6101,9 @@
       "pol": "Portoryko",
       "urd": "پورٹو ریکو",
       "kor": "푸에르토리코",
-      "ar": "بورتو ريكو"
+      "ar": "بورتو ريكو",
+      "tur": "Porto Riko",
+      "ind": "Puerto Rico"
     }
   },
   "QA": {
@@ -5779,7 +6135,9 @@
       "pol": "Katar",
       "urd": "قطر",
       "kor": "카타르",
-      "ar": "قطر"
+      "ar": "قطر",
+      "tur": "Katar",
+      "ind": "Qatar"
     }
   },
   "CG": {
@@ -5812,7 +6170,9 @@
       "pol": "Kongo",
       "urd": "جمہوریہ کانگو",
       "kor": "콩고",
-      "ar": "جمهورية الكونغو"
+      "ar": "جمهورية الكونغو",
+      "tur": "Kongo Cumhuriyeti",
+      "ind": "Republik Kongo"
     }
   },
   "RO": {
@@ -5844,7 +6204,9 @@
       "pol": "Rumunia",
       "urd": "رومانیہ",
       "kor": "루마니아",
-      "ar": "رومانيا"
+      "ar": "رومانيا",
+      "tur": "Romanya",
+      "ind": "Rumania"
     }
   },
   "RU": {
@@ -5876,7 +6238,9 @@
       "pol": "Rosja",
       "urd": "روس",
       "kor": "러시아",
-      "ar": "روسيا"
+      "ar": "روسيا",
+      "tur": "Rusya",
+      "ind": "Rusia"
 
     }
   },
@@ -5909,7 +6273,9 @@
       "pol": "Rwanda",
       "urd": "روانڈا",
       "kor": "르완다",
-      "ar": "رواندا"
+      "ar": "رواندا",
+      "tur": "Ruanda",
+      "ind": "Rwanda"
     }
   },
   "RE": {
@@ -5941,7 +6307,9 @@
       "pol": "Reunion",
       "urd": "رے یونیوں",
       "kor": "레위니옹",
-      "ar": "روينيون"
+      "ar": "روينيون",
+      "tur": "",
+      "ind": ""
     }
   },
   "BL": {
@@ -5973,7 +6341,9 @@
       "pol": "Saint-Barthélemy",
       "urd": "سینٹ بارتھیملے",
       "kor": "생바르텔레미",
-      "ar": "سان بارتليمي"
+      "ar": "سان بارتليمي",
+      "tur": "",
+      "ind": ""
     }
   },
   "SH": {
@@ -6007,7 +6377,9 @@
       "pol": "Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha",
       "urd": "سینٹ ہلینا، اسینشن و ترسٹان دا کونیا",
       "kor": "세인트헬레나",
-      "ar": "سانت هيلانة وأسنسيون وتريستان دا كونيا"
+      "ar": "سانت هيلانة وأسنسيون وتريستان دا كونيا",
+      "tur": "",
+      "ind": ""
     }
   },
   "KN": {
@@ -6039,7 +6411,9 @@
       "pol": "Saint Kitts i Nevis",
       "urd": "سینٹ کیٹز و ناویس",
       "kor": "세인트키츠 네비스",
-      "ar": "سانت كيتس ونيفيس"
+      "ar": "سانت كيتس ونيفيس",
+      "tur": "Saint Kitts ve Nevis",
+      "ind": "Saint Kitts dan Nevis"
     }
   },
   "LC": {
@@ -6071,7 +6445,9 @@
       "pol": "Saint Lucia",
       "urd": "سینٹ لوسیا",
       "kor": "세인트루시아",
-      "ar": "سانت لوسيا"
+      "ar": "سانت لوسيا",
+      "tur": "Saint Lucia",
+      "ind": "Saint Lucia"
     }
   },
   "MF": {
@@ -6103,7 +6479,9 @@
       "pol": "Saint-Martin",
       "urd": "سینٹ مارٹن",
       "kor": "생마르탱",
-      "ar":"سانت مارتن"
+      "ar":"سانت مارتن",
+      "tur": "San Marino",
+      "ind": "San Marino"
     }
   },
   "PM": {
@@ -6135,7 +6513,9 @@
       "pol": "Saint-Pierre i Miquelon",
       "urd": "سینٹ پیئر و میکیلون",
       "kor": "생피에르 미클롱",
-      "ar": "سانت بيير وميكلون"
+      "ar": "سانت بيير وميكلون",
+      "tur": "",
+      "ind": ""
     }
   },
   "VC": {
@@ -6167,7 +6547,9 @@
       "pol": "Saint Vincent i Grenadyny",
       "urd": "سینٹ وینسینٹ و گریناڈائنز",
       "kor": "세인트빈센트 그레나딘",
-      "ar": "سانت فنسينت والجرينادينز "
+      "ar": "سانت فنسينت والجرينادينز ",
+      "tur": "Saint Vincent ve Grenadinler",
+      "ind": "Saint Vincent dan Grenadines"
     }
   },
   "WS": {
@@ -6199,7 +6581,9 @@
       "pol": "Samoa",
       "urd": "سامووا",
       "kor": "사모아",
-      "ar": "ساموا"
+      "ar": "ساموا",
+      "tur": "Samoa",
+      "ind": "Samoa"
     }
   },
   "SM": {
@@ -6231,7 +6615,9 @@
       "pol": "San Marino",
       "urd": "سان مارینو",
       "kor": "산마리노",
-      "ar": "سان مارينو"
+      "ar": "سان مارينو",
+      "tur": "San Marino",
+      "ind": "San Marino"
     }
   },
   "SA": {
@@ -6263,7 +6649,9 @@
       "pol": "Arabia Saudyjska",
       "urd": "سعودی عرب",
       "kor": "사우디아라비아",
-      "ar": "المملكة العربية السعودية"
+      "ar": "المملكة العربية السعودية",
+      "tur": "Suudi Arabistan",
+      "ind": "Arab Saudi"
     }
   },
   "SN": {
@@ -6295,7 +6683,9 @@
       "pol": "Senegal",
       "urd": "سینیگال",
       "kor": "세네갈",
-      "ar": "السنغال"
+      "ar": "السنغال",
+      "tur": "Senegal",
+      "ind": "Senegal"
     }
   },
   "RS": {
@@ -6327,7 +6717,9 @@
       "pol": "Serbia",
       "urd": "سربیا",
       "kor": "세르비아",
-      "ar": "صربيا"
+      "ar": "صربيا",
+      "tur": "Sırbistan",
+      "ind": "Serbia"
     }
   },
   "SC": {
@@ -6359,7 +6751,9 @@
       "pol": "Seszele",
       "urd": "سیچیلیس",
       "kor": "세이셸",
-      "ar": "سيشيل"
+      "ar": "سيشيل",
+      "tur": "Seyşeller",
+      "ind": "Seychelles"
     }
   },
   "SL": {
@@ -6391,7 +6785,9 @@
       "pol": "Sierra Leone",
       "urd": "سیرالیون",
       "kor": "시에라리온",
-      "ar": "سيراليون"
+      "ar": "سيراليون",
+      "tur": "Sierra Leone",
+      "ind": "Sierra Leone"
     }
   },
   "SG": {
@@ -6422,7 +6818,9 @@
       "pol": "Singapur",
       "urd": "سنگاپور",
       "kor": "싱가포르",
-      "ar": "سنغافورة"
+      "ar": "سنغافورة",
+      "tur": "Singapur",
+      "ind": "Singapura"
     }
   },
   "SX": {
@@ -6454,7 +6852,9 @@
       "pol": "Sint Maarten",
       "urd": "سنٹ مارٹن",
       "kor": "신트마르턴",
-      "ar": "سنت مارتن"
+      "ar": "سنت مارتن",
+      "tur": "Sint Maarten",
+      "ind": "Sint Maarten"
     }
   },
   "SK": {
@@ -6486,7 +6886,9 @@
       "pol": "Słowacja",
       "urd": "سلوواکیہ",
       "kor": "슬로바키아",
-      "ar": "سلوفاكيا"
+      "ar": "سلوفاكيا",
+      "tur": "Slovakya",
+      "ind": "Slowakia"
     }
   },
   "SI": {
@@ -6518,7 +6920,9 @@
       "pol": "Słowenia",
       "urd": "سلووینیا",
       "kor": "슬로베니아",
-      "ar": "سلوفينيا"
+      "ar": "سلوفينيا",
+      "tur": "Slovenya",
+      "ind": "Slovenia"
     }
   },
   "SB": {
@@ -6550,7 +6954,9 @@
       "pol": "Wyspy Salomona",
       "urd": "جزائر سلیمان",
       "kor": "솔로몬 제도",
-      "ar": "جزر سليمان"
+      "ar": "جزر سليمان",
+      "tur": "Solomon Adaları",
+      "ind": "Kepulauan Solomon"
     }
   },
   "SO": {
@@ -6582,7 +6988,9 @@
       "pol": "Somalia",
       "urd": "صومالیہ",
       "kor": "소말리아",
-      "ar": "الصومال"
+      "ar": "الصومال",
+      "tur": "Somali",
+      "ind": "Somalia"
     }
   },
   "ZA": {
@@ -6614,7 +7022,9 @@
       "pol": "Południowa Afryka",
       "urd": "جنوبی افریقا",
       "kor": "남아프리카",
-      "ar": "جنوب أفريقيا"
+      "ar": "جنوب أفريقيا",
+      "tur": "Güney Afrika",
+      "ind": "Afrika Selatan"
     }
   },
   "GS": {
@@ -6646,7 +7056,9 @@
       "pol": "Georgia Południowa i Sandwich Południowy",
       "urd": "جنوبی جارجیا",
       "kor": "조지아",
-      "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
+      "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+      "tur": "",
+      "ind": ""
     }
   },
   "KR": {
@@ -6678,7 +7090,9 @@
       "pol": "Korea Południowa",
       "urd": "جنوبی کوریا",
       "kor": "한국",
-      "ar": "كوريا الجنوبية"
+      "ar": "كوريا الجنوبية",
+      "tur": "Güney Kore",
+      "ind": "Korea Selatan"
     }
   },
   "SS": {
@@ -6710,7 +7124,9 @@
       "pol": "Sudan",
       "urd": "جنوبی سوڈان",
       "kor": "남수단",
-      "ar": "جنوب السودان"
+      "ar": "جنوب السودان",
+      "tur": "Güney Sudan",
+      "ind": "Sudan Selatan"
     }
   },
   "ES": {
@@ -6742,7 +7158,9 @@
       "pol": "Hiszpania",
       "urd": "ہسپانیہ",
       "kor": "스페인",
-      "ar": "إسبانيا"
+      "ar": "إسبانيا",
+      "tur": "İspanya",
+      "ind": "Spanyol"
     }
   },
   "LK": {
@@ -6774,7 +7192,9 @@
       "pol": "Sri Lanka",
       "urd": "سری لنکا",
       "kor": "스리랑카",
-      "ar": "سريلانكا"
+      "ar": "سريلانكا",
+      "tur": "Sri Lanka",
+      "ind": "Sri Lanka"
     }
   },
   "SD": {
@@ -6806,7 +7226,9 @@
       "pol": "Sudan",
       "urd": "سودان",
       "kor": "수단",
-      "ar": "السودان"
+      "ar": "السودان",
+      "tur": "Sudan",
+      "ind": "Sudan"
     }
   },
   "SR": {
@@ -6838,7 +7260,9 @@
       "pol": "Surinam",
       "urd": "سرینام",
       "kor": "수리남",
-      "ar": "سورينام"
+      "ar": "سورينام",
+      "tur": "Surinam",
+      "ind": "Suriname"
     }
   },
   "SJ": {
@@ -6870,7 +7294,9 @@
       "pol": "Svalbard i Jan Mayen",
       "urd": "سوالبارڈ اور جان میئن",
       "kor": "스발바르 얀마옌 제도",
-      "ar": "إقليمي سفالبارد وجان مايين"
+      "ar": "إقليمي سفالبارد وجان مايين",
+      "tur": "Svalbard ve Jan Mayen",
+      "ind": "Svalbard ve Jan Mayen"
     }
   },
   "SE": {
@@ -6902,7 +7328,9 @@
       "pol": "Szwecja",
       "urd": "سویڈن",
       "kor": "스웨덴",
-      "ar": "السويد"
+      "ar": "السويد",
+      "tur": "İsveç",
+      "ind": "Swedia"
     }
   },
   "CH": {
@@ -6934,7 +7362,9 @@
       "pol": "Szwajcaria",
       "urd": "سویٹذرلینڈ",
       "kor": "스위스",
-      "ar": "سويسرا"
+      "ar": "سويسرا",
+      "tur": "İsviçre",
+      "ind": "Swiss"
     }
   },
   "SY": {
@@ -6966,7 +7396,9 @@
       "pol": "Syria",
       "urd": "سوریہ",
       "kor": "시리아",
-      "ar": "سوريا"
+      "ar": "سوريا",
+      "tur": "Suriye",
+      "ind": "Suriah"
     }
   },
   "ST": {
@@ -6998,7 +7430,9 @@
       "pol": "Wyspy Świętego Tomasza i Książęca",
       "urd": "ساؤ ٹومے و پرنسپے",
       "kor": "상투메 프린시페",
-      "ar": "ساو تومي وبرينسيبي"
+      "ar": "ساو تومي وبرينسيبي",
+      "tur": "São Tomé and Príncipe",
+      "ind": "São Tomé and Príncipe"
     }
   },
   "TW": {
@@ -7029,7 +7463,9 @@
       "pol": "Tajwan",
       "urd": "تائیوان",
       "kor": "대만",
-      "ar": "تايوان"
+      "ar": "تايوان",
+      "tur": "Tayvan",
+      "ind": "Taiwan"
     }
   },
   "TJ": {
@@ -7061,7 +7497,9 @@
       "pol": "Tadżykistan",
       "urd": "تاجکستان",
       "kor": "타지키스탄",
-      "ar": "طاجيكستان"
+      "ar": "طاجيكستان",
+      "tur": "Tacikistan",
+      "ind": "Tajikistan"
     }
   },
   "TZ": {
@@ -7093,7 +7531,9 @@
       "pol": "Tanzania",
       "urd": "تنزانیہ",
       "kor": "탄자니아",
-      "ar": "تنزانيا"
+      "ar": "تنزانيا",
+      "tur": "Tanzanya",
+      "ind": "Tanzania"
     }
   },
   "TH": {
@@ -7125,7 +7565,9 @@
       "pol": "Tajlandia",
       "urd": "تھائی لینڈ",
       "kor": "태국",
-      "ar": "تايلاند"
+      "ar": "تايلاند",
+      "tur": "Tayland",
+      "ind": "Thailand"
     }
   },
   "TL": {
@@ -7157,7 +7599,9 @@
       "pol": "Timor Wschodni",
       "urd": "مشرقی تیمور",
       "kor": "동티모르",
-      "ar": "تيمور الشرقية"
+      "ar": "تيمور الشرقية",
+      "tur": "Timor-Leste",
+      "ind": "Timor-Leste"
     }
   },
   "TG": {
@@ -7189,7 +7633,9 @@
       "pol": "Togo",
       "urd": "ٹوگو",
       "kor": "토고",
-      "ar": "توجو"
+      "ar": "توجو",
+      "tur": "Togo",
+      "ind": "Togo"
     }
   },
   "TK": {
@@ -7221,7 +7667,9 @@
       "pol": "Tokelau",
       "urd": "ٹوکیلاؤ",
       "kor": "토켈라우",
-      "ar": "توكيلو"
+      "ar": "توكيلو",
+      "tur": "Tokelau",
+      "ind": "Tokelau"
     }
   },
   "TO": {
@@ -7253,7 +7701,9 @@
       "pol": "Tonga",
       "urd": "ٹونگا",
       "kor": "통가",
-      "ar": "تونجا"
+      "ar": "تونجا",
+      "tur": "Tonga",
+      "ind": "Tonga"
     }
   },
   "TT": {
@@ -7285,7 +7735,9 @@
       "pol": "Trynidad i Tobago",
       "urd": "ٹرینیڈاڈ و ٹوباگو",
       "kor": "트리니다드 토바고",
-      "ar": "ترينيداد وتوباغو"
+      "ar": "ترينيداد وتوباغو",
+      "tur": "Trinidad ve Tobago",
+      "ind": "Trinidad dan Tobago"
     }
   },
   "TN": {
@@ -7317,7 +7769,9 @@
       "pol": "Tunezja",
       "urd": "تونس",
       "kor": "튀니지",
-      "ar": "تونس"
+      "ar": "تونس",
+      "tur": "Tunus",
+      "ind": "Tunisia"
     }
   },
   "TR": {
@@ -7349,7 +7803,9 @@
       "pol": "Turcja",
       "urd": "ترکی",
       "kor": "터키",
-      "ar": "تركيا"
+      "ar": "تركيا",
+      "tur": "Türkiye",
+      "ind": "Turki"
     }
   },
   "TM": {
@@ -7381,7 +7837,9 @@
       "pol": "Turkmenistan",
       "urd": "ترکمانستان",
       "kor": "투르크메니스탄",
-      "ar": "تركمانستان"
+      "ar": "تركمانستان",
+      "tur": "Türkmenistan",
+      "ind": "Turkmenistan"
     }
   },
   "TC": {
@@ -7413,7 +7871,9 @@
       "pol": "Turks i Caicos",
       "urd": "جزائر کیکس و ترکیہ",
       "kor": "터크스 케이커스 제도",
-      "ar": "جزر تركس وكايكوس"
+      "ar": "جزر تركس وكايكوس",
+      "tur": "",
+      "ind": ""
     }
   },
   "TV": {
@@ -7445,7 +7905,9 @@
       "pol": "Tuvalu",
       "urd": "تووالو",
       "kor": "투발루",
-      "ar": "توفالو"
+      "ar": "توفالو",
+      "tur": "Tuvalu",
+      "ind": "Tuvalu"
     }
   },
   "UG": {
@@ -7477,7 +7939,9 @@
       "pol": "Uganda",
       "urd": "یوگنڈا",
       "kor": "우간다",
-      "ar": "أوغندا"
+      "ar": "أوغندا",
+      "tur": "Uganda",
+      "ind": "Uganda"
     }
   },
   "UA": {
@@ -7509,7 +7973,9 @@
       "pol": "Ukraina",
       "urd": "یوکرین",
       "kor": "우크라이나",
-      "ar": "أوكرانيا"
+      "ar": "أوكرانيا",
+      "tur": "Ukrayna",
+      "ind": "Ukraina"
     }
   },
   "AE": {
@@ -7541,7 +8007,9 @@
       "pol": "Zjednoczone Emiraty Arabskie",
       "urd": "متحدہ عرب امارات",
       "kor": "아랍에미리트",
-      "ar": "الإمارات العربية المتحدة"
+      "ar": "الإمارات العربية المتحدة",
+      "tur": "Birleşik Arap Emirlikleri",
+      "ind": "Uni Emirat Arab"
     }
   },
   "GB": {
@@ -7573,7 +8041,9 @@
       "pol": "Zjednoczone Krłlestwo",
       "urd": "مملکتِ متحدہ",
       "kor": "영국",
-      "ar": "المملكة المتحدة"
+      "ar": "المملكة المتحدة",
+      "tur": "Birleşik Krallık",
+      "ind": "Britania Raya"
     }
   },
   "US": {
@@ -7605,7 +8075,9 @@
       "pol": "Stany Zjednoczone",
       "urd": "ریاستہائے متحدہ",
       "kor": "미국",
-      "ar": "الولايات المتحدة"
+      "ar": "الولايات المتحدة",
+      "tur": "Amerika Birleşik Devletleri",
+      "ind": "Amerika Serikat"
     }
   },
   "UM": {
@@ -7635,7 +8107,9 @@
       "pol": "Dalekie Wyspy Mniejsze Stanów Zjednoczonych",
       "urd": "امریکی چھوٹے بیرونی جزائر",
       "kor": "미국령 군소 제도",
-      "ar": "جزر الولايات المتحدة البعيدة الصغرى"
+      "ar": "جزر الولايات المتحدة البعيدة الصغرى",
+      "tur": "",
+      "ind": ""
     }
   },
   "VI": {
@@ -7667,7 +8141,9 @@
       "pol": "Wyspy Dziewicze Stanów Zjednoczonych",
       "urd": "امریکی جزائر ورجن",
       "kor": "미국령 버진아일랜드",
-      "ar": "جزر فيرجن الأميركية"
+      "ar": "جزر فيرجن الأميركية",
+      "tur": "",
+      "ind": ""
     }
   },
   "UY": {
@@ -7699,7 +8175,9 @@
       "pol": "Urugwaj",
       "urd": "یوراگوئے",
       "kor": "우루과이",
-      "ar" : "أوروغواي"
+      "ar" : "أوروغواي",
+      "tur": "Uruguay",
+      "ind": "Uruguay"
     }
   },
   "UZ": {
@@ -7731,7 +8209,9 @@
       "pol": "Uzbekistan",
       "urd": "ازبکستان",
       "kor": "우즈베키스탄",
-      "ar": "أوزبكستان"
+      "ar": "أوزبكستان",
+      "tur": "Özbekistan",
+      "ind": "Uzbekistan"
     }
   },
   "VU": {
@@ -7763,7 +8243,9 @@
       "pol": "Vanuatu",
       "urd": "وانواتو",
       "kor": "바누아투",
-      "ar": "فانواتو"
+      "ar": "فانواتو",
+      "tur": "Vanuatu",
+      "ind": "Vanuatu"
     }
   },
   "VA": {
@@ -7796,7 +8278,9 @@
       "pol": "Watykan",
       "urd": "ویٹیکن سٹی",
       "kor": "바티칸",
-      "ar": "الفاتيكان"
+      "ar": "الفاتيكان",
+      "tur": "Vatikan Şehri",
+      "ind": "Kota Vatikan"
     }
   },
   "VE": {
@@ -7828,7 +8312,9 @@
       "pol": "Wenezuela",
       "urd": "وینیزویلا",
       "kor": "베네수엘라",
-      "ar": "فنزويلا"
+      "ar": "فنزويلا",
+      "tur": "Venezuela",
+      "ind": "Venezuela"
     }
   },
   "VN": {
@@ -7860,7 +8346,9 @@
       "pol": "Wietnam",
       "urd": "ویتنام",
       "kor": "베트남",
-      "ar": "فيتنام"
+      "ar": "فيتنام",
+      "tur": "Vietnam",
+      "ind": "Vietnam"
     }
   },
   "WF": {
@@ -7892,7 +8380,9 @@
       "pol": "Wallis i Futuna",
       "urd": "والس و فتونہ",
       "kor": "",
-      "ar": "جزر والس وفوتونا"
+      "ar": "جزر والس وفوتونا",
+      "tur": "",
+      "ind": ""
     }
   },
   "EH": {
@@ -7926,7 +8416,9 @@
       "pol": "Sahara Zachodnia",
       "urd": "مغربی صحارا",
       "kor": "서사하라",
-      "ar": "الصحراء الغربية"
+      "ar": "الصحراء الغربية",
+      "tur": "Batı Sahra",
+      "ind": "Sahara Barat"
     }
   },
   "YE": {
@@ -7958,7 +8450,9 @@
       "pol": "Jemen",
       "urd": "یمن",
       "kor": "예멘",
-      "ar": "اليمن"
+      "ar": "اليمن",
+      "tur": "Yemen",
+      "ind": "Yaman"
     }
   },
   "ZM": {
@@ -7990,7 +8484,9 @@
       "pol": "Zambia",
       "urd": "زیمبیا",
       "kor": "잠비아",
-      "ar": "زامبيا"
+      "ar": "زامبيا",
+      "tur": "Zambiya",
+      "ind": "Zambia"
     }
   },
   "ZW": {
@@ -8022,7 +8518,9 @@
       "pol": "Zimbabwe",
       "urd": "زمبابوے",
       "kor": "짐바브웨",
-      "ar": "زيمبابوي"
+      "ar": "زيمبابوي",
+      "tur": "Zimbabwe",
+      "ind": "Zimbabwe"
     }
   },
   "AX": {
@@ -8054,7 +8552,9 @@
       "pol": "Wyspy Alandzkie",
       "urd": "جزائر اولند",
       "kor": "올란드 제도",
-      "ar": "جزر اولند"
+      "ar": "جزر اولند",
+      "tur": "Aland adaları",
+      "ind": "Pulau Aland"
     }
   }
 }
